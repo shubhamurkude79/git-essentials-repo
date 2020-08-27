@@ -1,1 +1,2 @@
-This is just push a first commit from a new-branch.
+This is just to push a first commit from a new-branch.
+This file will be shown in both master and new-branch.
